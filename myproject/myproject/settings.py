@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': 'employedetailes',
         'USER':'root',
-        'PASSWORD':'Subbupapineni8@',
+        'PASSWORD':'Subbu',
         'host':'120.0.0.1',
         'port':'3306',
         'options':{'charset':'utf8mb4','init_command':'SET sql_mode=STRICT_TRANS_TABLES'}
